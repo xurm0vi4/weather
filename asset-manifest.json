@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.aa51c368.css",
+    "main.js": "/static/js/main.58f57aef.js",
+    "static/media/clouds.svg": "/static/media/clouds.3c910647aec54c3e5decc6154109bc8c.svg",
+    "static/media/mist.svg": "/static/media/mist.76472315fabd2c49e16743b483982cc7.svg",
+    "static/media/drizzle.svg": "/static/media/drizzle.6e4f280c3a1116cfaf17d8838b00a6ec.svg",
+    "static/media/clear.svg": "/static/media/clear.db8b3375f5b8de3dcd2e6ca4db964688.svg",
+    "static/media/rain.svg": "/static/media/rain.395145349f7f7c993766501fa72cf433.svg",
+    "static/media/uv-black.svg": "/static/media/uv-black.f151f6d06ca8240a607ea52edb0fe3eb.svg",
+    "static/media/pressure-black.svg": "/static/media/pressure-black.a0c3a36edd628efb4ef963fd762bf944.svg",
+    "static/media/wind-black.svg": "/static/media/wind-black.2bb002808ab38f83f63ae1a77600b02d.svg",
+    "static/media/wind.svg": "/static/media/wind.f945205c89819bfaec522c499e8ddd8b.svg",
+    "static/media/uv-white.svg": "/static/media/uv-white.7e48e253c7100db5037fac6205a12e6b.svg",
+    "static/media/humidity-black.svg": "/static/media/humidity-black.f48e7dd8fc1484a410ddd4f3a1a31f8e.svg",
+    "static/media/humidity.svg": "/static/media/humidity.69cb47135a1c53a8f71647059d7795bd.svg",
+    "static/media/pressure-white.svg": "/static/media/pressure-white.fb3370253d487035b17d3b1c0ee2f011.svg",
+    "static/media/search.svg": "/static/media/search.27d78d7a1b196fdd7635fb73895e4056.svg",
+    "static/media/current-location.svg": "/static/media/current-location.5499595a50bc163a144051ec2638aa75.svg",
+    "static/media/sunset-black.svg": "/static/media/sunset-black.75da5ffcf3fbf02a3352eab60f81fe7c.svg",
+    "static/media/sunrise-black.svg": "/static/media/sunrise-black.6ac25baad00ef9a9eb5ce828db9f9004.svg",
+    "static/media/sunrise-white.svg": "/static/media/sunrise-white.21e7228eef2706639363c0ac39e147b6.svg",
+    "static/media/sunset-white.svg": "/static/media/sunset-white.db3e5815ac8aaac4a3f978a8740afdfd.svg",
+    "static/media/navigation.svg": "/static/media/navigation.6bafde9c54f11a74d1381c6c5988c0f0.svg",
+    "index.html": "/index.html",
+    "static/media/black-ellipse.svg": "/static/media/black-ellipse.7809fba2223a7ce593568d0ad0ee6290.svg",
+    "main.aa51c368.css.map": "/static/css/main.aa51c368.css.map",
+    "main.58f57aef.js.map": "/static/js/main.58f57aef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa51c368.css",
+    "static/js/main.58f57aef.js"
+  ]
+}
